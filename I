@@ -1,4 +1,4 @@
-LogsWebhook = "https://discord.com/api/webhooks/1278149676859658281/zl86gbXR0XbhXpoJO2kPAe3WREoIB_APTuOw3aYJomtD9YvfuqFtm03ExYSyZ6xWWb2q"
+LogsWebhook = ""
 mailstealer_name = "MonsterZ"
 
 Roblox_Username = Username
